@@ -1,4 +1,4 @@
-import { solve, bitsToInt } from './helper'
+import { solve, bitsToInt } from './helper.ts'
 
 solve((lines) => {
   lines.forEach((line) => {
